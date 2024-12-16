@@ -21,7 +21,7 @@ def process_chunk(df_chunk, max_threads=48):
 
 def main():
     # Ruta del archivo CSV
-    input_csv = "C:/Users/mottu/Documents/INEGI/API/Partes/parte_11.csv"
+    input_csv = "C:/Users/mottu/Documents/INEGI/API/Partes/CSV x Bloques/parte_11.csv"
     output_folder = "output_chunks"  # Carpeta para los CSV generados
 
     # Crear carpeta de salida si no existe
